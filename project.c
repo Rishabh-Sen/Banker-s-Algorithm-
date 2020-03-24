@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main()
 {  // P0, P1, P2, P3, P4 these are process names  
-	int p,q,r,s,t;
+	int p,q,r,s,t
 	p=5; // process we have 
 	q=4; // resources we have 
 	int assign[5] [4]= {{0,0,1,2},   //p0   Resources Allocate
